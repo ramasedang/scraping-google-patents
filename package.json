@@ -1,0 +1,12 @@
+{
+  "name": "Patents-google-scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "fs": "^0.0.1-security",
+    "json2csv": "^6.0.0-alpha.2",
+    "puppeteer": "^19.7.5"
+  }
+}
